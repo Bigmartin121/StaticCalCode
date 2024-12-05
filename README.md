@@ -5,4 +5,4 @@ A Qt demo for caculate your code line number for *.cpp, *.h, .c
 
 界面如下
 
-![image-20241205134809627](/home/mp/Mayujie/LittleProject/StatisticsCalCode/image-20241205134809627.png)
+![image-20241205134809627](/home/mp/Mayujie/LittleProject/StatisticsCalCode/README.assets/image-20241205134809627.png)
